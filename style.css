@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+
+#marqueeStyle {
+    background-color: #2196F3;
+}
+
+#map iframe {
+    width: 50%;
+    float: left;
+}
+iframe{
+    width: 100%;
+}
